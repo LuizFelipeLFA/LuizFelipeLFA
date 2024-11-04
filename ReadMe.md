@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Iniciante na programação - Front-End.<br><br>📌 Como estágio inicial optei pelo Front-End, porém <br>com planos para me integrar ao Back-end, e trabalhar<br>em ambas as funções, participando ativamente em <br>todas as etapas do projeto.<br><br>📚 Também me chama a atenção a área de Banco De Dados, penso<br>em adicionar bastante conhecimento ao meu currículo.<br><br>
+⚡ Iniciante na área de programação, com foco inicial no desenvolvimento Front-End.<br><br>📌 Optei por começar minha jornada no Front-End, mas tenho a intenção de ampliar minha atuação ao Back-End, almejando desenvolver habilidades em ambas as áreas e contribuir ativamente em todas as fases de um projeto.<br><br>📚 Além disso, nutro grande interesse pela área de Banco de Dados e pretendo aprimorar substancialmente meus conhecimentos nesse campo, enriquecendo assim meu currículo.<br><br>
 
 
 ## 🌐 Socials:
